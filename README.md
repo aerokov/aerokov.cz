@@ -1,2 +1,4 @@
 # aerokov.cz
-Temporary website
+
+# Aerokov
+An aerospace company
