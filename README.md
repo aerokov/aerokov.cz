@@ -1,0 +1,2 @@
+# aerokov.cz
+Temporary website
